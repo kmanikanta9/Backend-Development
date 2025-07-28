@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Aarav Sharma",
+      "course": "Full Stack Web",
+      "batch": "April 2025"
+    },
+    {
+      "id": 1,
+      "name": "Manikanta",
+      "course": "Full Stack Web",
+      "batch": "Feb 2025"
+    },
+    {
+      "id": 3,
+      "name": "Aswarth",
+      "course": "Full Stack Web",
+      "batch": "March 2025"
+    },
+    { "id": 4, "name": "Aanad", "course": "Data Science", "batch": "Feb 2025" },
+    { "id": 5, "name": "Sumanth", "course": "Testing", "batch": "Feb 2025" }
+  ]
+}

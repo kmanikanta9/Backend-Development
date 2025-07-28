@@ -1,0 +1,5 @@
+const boxen=require("boxen")
+console.log(boxen('unicorn',{padding:1}))
+console.log(boxen('I am using my first external module!',{title:'Hurray!!!',titleAlignment:'center'}))
+console.log(boxen('I am using my first external module!',{title:'Hurray!!!',titleAlignment:'center',borderStyle:'double'}))
+console.log(boxen('I am using my first external module!',{title:'Hurray!!!',titleAlignment:'center',borderStyle:'round'}))
