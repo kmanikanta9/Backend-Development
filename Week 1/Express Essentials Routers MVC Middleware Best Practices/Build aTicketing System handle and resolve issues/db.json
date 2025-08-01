@@ -1,0 +1,12 @@
+{
+  "tickets": [
+    {
+      "title": "Login Issue",
+      "description": "Unable to login",
+      "priority": "high",
+      "user": "John Doe",
+      "id": 1,
+      "status": "resolved"
+    }
+  ]
+}

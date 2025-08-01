@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "title": "Buy groceries", "completed": false, "id": 1 },
+    { "title": "Buy Ticket", "completed": true, "id": 4 }
+  ]
+}

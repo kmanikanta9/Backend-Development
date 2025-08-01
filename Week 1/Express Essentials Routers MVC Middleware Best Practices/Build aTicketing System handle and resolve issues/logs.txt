@@ -1,0 +1,1 @@
+Method: GET | EndPoint:/tickets/all-ticketsMethod: PATCH | EndPoint:/tickets/update-status/1Method: PATCH | EndPoint:/tickets/update-status/1

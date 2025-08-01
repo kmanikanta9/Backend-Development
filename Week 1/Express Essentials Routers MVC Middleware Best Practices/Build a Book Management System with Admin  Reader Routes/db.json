@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "title": "The Great Britan ",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "publishedYear": 1940,
+      "status": "available"
+    }
+  ]
+}
