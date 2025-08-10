@@ -1,0 +1,58 @@
+Task 1: List of Books Borrowed by Each Borrower
+User1: Book1, Book2, Book4, Book2, Book2
+User2: Book3
+User3: Book2, Book5
+User4: Book1
+
+Task 2: Top 3 Most Borrowed Books
+Book2: 4
+Book1: 2
+Book3: 1
+
+Task 3: Borrower’s Loan History with Book Details (User1)
+Book1 - The Alchemist - Fiction
+Book2 - Clean Code - Programming
+Book4 - Atomic Habits - Self-help
+Book2 - Clean Code - Programming
+Book2 - Clean Code - Programming
+
+Task 4: Borrowers Who Have Borrowed More Than 2 Books
+User1
+
+Task 5: Full Report of All Loans (Borrower Name and Book Title)
+Alice - The Alchemist
+Alice - Clean Code
+Alice - Atomic Habits
+Alice - Clean Code
+Alice - Clean Code
+Bob - 1984
+Charlie - Clean Code
+Charlie - The Pragmatic Programmer
+David - The Alchemist
+
+Task 6: Genre-wise Count of Borrowed Books
+Fiction: 2
+Programming: 5
+Dystopian: 1
+Self-help: 1
+
+Task 7: Current Borrowed Books with Borrower and Book Title
+Alice - Clean Code
+Charlie - Clean Code
+Charlie - The Pragmatic Programmer
+Alice - Clean Code
+Alice - Clean Code
+
+Task 8: Number of Returned Books per Borrower
+User1: 2
+User2: 1
+User4: 1
+
+Task 9: Borrowers Who Borrowed Multiple Genres
+User1
+
+Task 10: List of Borrowers with Total Borrow Count and Names
+Alice: 5
+Bob: 1
+Charlie: 2
+David: 1

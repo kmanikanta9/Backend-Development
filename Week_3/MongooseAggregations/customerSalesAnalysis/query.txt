@@ -1,0 +1,37 @@
+Total Amount Spent by Each Customer:
+C1001: 800
+C1002: 2000
+C1003: 700
+C1004: 400
+C1005: 900
+
+Orders with Customer Information:
+OrderID: 1, CustomerID: C1001, Amount: 500, Product: Laptop
+OrderID: 2, CustomerID: C1002, Amount: 1200, Product: Phone
+OrderID: 3, CustomerID: C1001, Amount: 300, Product: Headphones
+OrderID: 4, CustomerID: C1003, Amount: 700, Product: Monitor
+OrderID: 5, CustomerID: C1004, Amount: 400, Product: Keyboard
+OrderID: 6, CustomerID: C1002, Amount: 800, Product: Tablet
+OrderID: 7, CustomerID: C1005, Amount: 900, Product: Smartwatch
+
+Orders with Amount Greater than Rs. 500:
+OrderID: 2, CustomerID: C1002, Amount: 1200, Product: Phone
+OrderID: 4, CustomerID: C1003, Amount: 700, Product: Monitor
+OrderID: 6, CustomerID: C1002, Amount: 800, Product: Tablet
+OrderID: 7, CustomerID: C1005, Amount: 900, Product: Smartwatch
+
+Average Order Amount per Customer:
+C1001: 400.00
+C1002: 1000.00
+C1003: 700.00
+C1004: 400.00
+C1005: 900.00
+
+Orders with Valid Customer Records:
+OrderID: 1, CustomerID: C1001, Amount: 500, Product: Laptop
+OrderID: 2, CustomerID: C1002, Amount: 1200, Product: Phone
+OrderID: 3, CustomerID: C1001, Amount: 300, Product: Headphones
+OrderID: 4, CustomerID: C1003, Amount: 700, Product: Monitor
+OrderID: 5, CustomerID: C1004, Amount: 400, Product: Keyboard
+OrderID: 6, CustomerID: C1002, Amount: 800, Product: Tablet
+OrderID: 7, CustomerID: C1005, Amount: 900, Product: Smartwatch

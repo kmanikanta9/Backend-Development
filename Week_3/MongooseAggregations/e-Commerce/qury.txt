@@ -1,0 +1,52 @@
+Top 3 Best-Selling Products by Quantity Sold:
+T-shirt: 14
+iPhone 14: 5
+Shoes: 5
+
+Total Revenue for Each Product Category (excluding Cancelled):
+Electronics: 4300
+Clothing: 630
+Home Appliances: 490
+
+Average Total Price of All Orders (including all statuses):
+Total Revenue: 5420
+Total Orders: 15
+Average Price: 361.33
+
+Number of Orders Placed Each Month:
+2024-11: 2
+2024-12: 2
+2025-01: 2
+2025-02: 2
+2025-03: 3
+2025-04: 4
+
+Percentage of Cancelled Orders:
+Cancelled Orders: 2
+Total Orders: 15
+Percentage: 13.33%
+
+Top Product Category by Revenue:
+Electronics (4300)
+
+Most Frequently Ordered Product:
+T-shirt (4 orders)
+
+Monthly Revenue Trend (excluding Cancelled Orders):
+2024-11: 2100
+2024-12: 40
+2025-01: 270
+2025-02: 1210
+2025-03: 600
+2025-04: 1200
+
+Count of Orders by Status:
+Delivered: 9
+Cancelled: 2
+Pending: 1
+Shipped: 2
+Total: 14 (1 order had an unlisted or malformed status)
+
+Total Number of Orders and Quantity Sold (excluding Cancelled):
+Total Orders: 13
+Total Quantity Sold: 30

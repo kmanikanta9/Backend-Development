@@ -1,0 +1,46 @@
+Total Sales Amount per Category:
+Electronics: 3300
+Fashion: 800
+
+Month-wise Total Sales Amount:
+2024-01: 1000
+2024-02: 1400
+2024-03: 1300
+2024-04: 400
+
+Highest Selling Product by Revenue:
+Laptop: 1650
+
+Average Sale Amount:
+455.56
+
+Number of Sales per Month:
+2024-01: 2
+2024-02: 3
+2024-03: 2
+2024-04: 2
+
+Total Sales per Region:
+North: 1300
+South: 900
+West: 1850
+East: 50
+
+Top 3 Highest Revenue-Generating Products:
+Laptop: 1650
+TV: 1000
+Shoes: 450
+
+Sales Transactions per Category:
+Electronics: 5
+Fashion: 4
+
+Average Sales Amount per Region:
+North: 433.33
+South: 300.00
+West: 925.00
+East: 50.00
+
+Total Sales for Electronics and Fashion:
+Electronics: 3300
+Fashion: 800
